@@ -1,0 +1,12 @@
+D:\EntityFramework\MappingInEntityFramework\MappingInEntityFramework\bin\Debug\MappingInEntityFramework.exe.config
+D:\EntityFramework\MappingInEntityFramework\MappingInEntityFramework\bin\Debug\MappingInEntityFramework.exe
+D:\EntityFramework\MappingInEntityFramework\MappingInEntityFramework\bin\Debug\MappingInEntityFramework.pdb
+D:\EntityFramework\MappingInEntityFramework\MappingInEntityFramework\bin\Debug\EntityFramework.dll
+D:\EntityFramework\MappingInEntityFramework\MappingInEntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+D:\EntityFramework\MappingInEntityFramework\MappingInEntityFramework\bin\Debug\EntityFramework.xml
+D:\EntityFramework\MappingInEntityFramework\MappingInEntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+D:\EntityFramework\MappingInEntityFramework\MappingInEntityFramework\obj\Debug\MappingInEntityFramework.csproj.AssemblyReference.cache
+D:\EntityFramework\MappingInEntityFramework\MappingInEntityFramework\obj\Debug\MappingInEntityFramework.csproj.CoreCompileInputs.cache
+D:\EntityFramework\MappingInEntityFramework\MappingInEntityFramework\obj\Debug\MappingInEntityFramework.csproj.CopyComplete
+D:\EntityFramework\MappingInEntityFramework\MappingInEntityFramework\obj\Debug\MappingInEntityFramework.exe
+D:\EntityFramework\MappingInEntityFramework\MappingInEntityFramework\obj\Debug\MappingInEntityFramework.pdb

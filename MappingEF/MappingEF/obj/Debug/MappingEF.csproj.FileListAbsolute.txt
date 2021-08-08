@@ -1,0 +1,12 @@
+D:\EntityFramework\MappingEF\MappingEF\bin\Debug\MappingEF.exe.config
+D:\EntityFramework\MappingEF\MappingEF\bin\Debug\MappingEF.exe
+D:\EntityFramework\MappingEF\MappingEF\bin\Debug\MappingEF.pdb
+D:\EntityFramework\MappingEF\MappingEF\bin\Debug\EntityFramework.dll
+D:\EntityFramework\MappingEF\MappingEF\bin\Debug\EntityFramework.SqlServer.dll
+D:\EntityFramework\MappingEF\MappingEF\bin\Debug\EntityFramework.xml
+D:\EntityFramework\MappingEF\MappingEF\bin\Debug\EntityFramework.SqlServer.xml
+D:\EntityFramework\MappingEF\MappingEF\obj\Debug\MappingEF.csproj.AssemblyReference.cache
+D:\EntityFramework\MappingEF\MappingEF\obj\Debug\MappingEF.csproj.CoreCompileInputs.cache
+D:\EntityFramework\MappingEF\MappingEF\obj\Debug\MappingEF.csproj.CopyComplete
+D:\EntityFramework\MappingEF\MappingEF\obj\Debug\MappingEF.exe
+D:\EntityFramework\MappingEF\MappingEF\obj\Debug\MappingEF.pdb

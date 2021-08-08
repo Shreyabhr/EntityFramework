@@ -1,0 +1,11 @@
+D:\EntityFramework\StudentApiSwagger\Students.Services\bin\Debug\Students.Services.dll
+D:\EntityFramework\StudentApiSwagger\Students.Services\bin\Debug\Students.Services.pdb
+D:\EntityFramework\StudentApiSwagger\Students.Services\obj\Debug\Students.Services.csproj.CoreCompileInputs.cache
+D:\EntityFramework\StudentApiSwagger\Students.Services\obj\Debug\Students.Services.dll
+D:\EntityFramework\StudentApiSwagger\Students.Services\obj\Debug\Students.Services.pdb
+D:\EntityFramework\StudentApiSwagger\Students.Services\bin\Debug\Students.Model.dll
+D:\EntityFramework\StudentApiSwagger\Students.Services\bin\Debug\Students.Repository.dll
+D:\EntityFramework\StudentApiSwagger\Students.Services\bin\Debug\Students.Model.pdb
+D:\EntityFramework\StudentApiSwagger\Students.Services\bin\Debug\Students.Repository.pdb
+D:\EntityFramework\StudentApiSwagger\Students.Services\obj\Debug\Students.Services.csproj.AssemblyReference.cache
+D:\EntityFramework\StudentApiSwagger\Students.Services\obj\Debug\Students.Services.csproj.CopyComplete

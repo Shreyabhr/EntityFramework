@@ -1,0 +1,6 @@
+D:\EntityFramework\BankingApplicationEF\Bank.Model\bin\Debug\Bank.Model.dll
+D:\EntityFramework\BankingApplicationEF\Bank.Model\bin\Debug\Bank.Model.pdb
+D:\EntityFramework\BankingApplicationEF\Bank.Model\obj\Debug\Bank.Model.csproj.AssemblyReference.cache
+D:\EntityFramework\BankingApplicationEF\Bank.Model\obj\Debug\Bank.Model.csproj.CoreCompileInputs.cache
+D:\EntityFramework\BankingApplicationEF\Bank.Model\obj\Debug\Bank.Model.dll
+D:\EntityFramework\BankingApplicationEF\Bank.Model\obj\Debug\Bank.Model.pdb

@@ -1,0 +1,66 @@
+﻿@{
+    Layout = "~/Views/Shared/MasterTemplate.cshtml";
+    @model List<Customers.Model.Customer>
+}
+
+<div class="container">
+    <div class="row col-md-6 col-md-offset-3">
+        <p>@ViewBag.Count</p>
+        <table class="table">
+            <tr>
+                <th>
+                    Id
+                </th>
+                <th>
+                    Name
+                </th>
+                <th>
+                    Location
+                </th>
+                <th>
+                    Balance
+                </th>
+                <th>
+                    Type
+                </th>
+                <th>
+                    Action
+                </th>
+
+            </tr>
+
+            @foreach (var item in Model)
+            {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Location)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Balance)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Type3)
+            </td>
+            <td>
+                <input type="submit" value="Edit" class="btn btn-warning" onclick="location.href='@Url.Action("Index", "Edit", new { id = item.Id})'" />
+                
+                <input type="submit" value="Delete" class="btn btn-danger" onclick="location.href='@Url.Action("Delete", "Display", new { id = item.Id})'" />
+            </td>
+            
+
+        </tr>
+
+
+            }
+
+
+        </table>
+    </div>
+</div>
+

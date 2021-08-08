@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>MasterTemplate</title>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+</head>
+<body>
+    <div>
+        <nav class="navbar navbar-inverse">
+            <div class="container-fluid">
+                <ul class="nav navbar-nav">
+                    <li>
+                        @Html.ActionLink("Display", "Index", "Display")
+                    </li>
+                    <li>@Html.ActionLink("Add", "Index", "Add")</li>
+                </ul>
+            </div>
+
+        </nav>
+        <div>
+            @RenderBody()
+        </div>
+    </div>
+</body>
+</html>

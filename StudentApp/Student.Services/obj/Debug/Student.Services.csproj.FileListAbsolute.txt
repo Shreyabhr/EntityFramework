@@ -1,0 +1,11 @@
+D:\EntityFramework\StudentApp\Student.Services\bin\Debug\Student.Services.dll
+D:\EntityFramework\StudentApp\Student.Services\bin\Debug\Student.Services.pdb
+D:\EntityFramework\StudentApp\Student.Services\obj\Debug\Student.Services.csproj.CoreCompileInputs.cache
+D:\EntityFramework\StudentApp\Student.Services\obj\Debug\Student.Services.dll
+D:\EntityFramework\StudentApp\Student.Services\obj\Debug\Student.Services.pdb
+D:\EntityFramework\StudentApp\Student.Services\bin\Debug\Student.Model.dll
+D:\EntityFramework\StudentApp\Student.Services\bin\Debug\StudentInMemoryRepository.dll
+D:\EntityFramework\StudentApp\Student.Services\bin\Debug\Student.Model.pdb
+D:\EntityFramework\StudentApp\Student.Services\bin\Debug\StudentInMemoryRepository.pdb
+D:\EntityFramework\StudentApp\Student.Services\obj\Debug\Student.Services.csproj.AssemblyReference.cache
+D:\EntityFramework\StudentApp\Student.Services\obj\Debug\Student.Services.csproj.CopyComplete

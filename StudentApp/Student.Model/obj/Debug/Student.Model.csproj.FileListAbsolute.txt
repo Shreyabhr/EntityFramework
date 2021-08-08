@@ -1,0 +1,6 @@
+D:\EntityFramework\StudentApp\Student.Model\bin\Debug\Student.Model.dll
+D:\EntityFramework\StudentApp\Student.Model\bin\Debug\Student.Model.pdb
+D:\EntityFramework\StudentApp\Student.Model\obj\Debug\Student.Model.csproj.AssemblyReference.cache
+D:\EntityFramework\StudentApp\Student.Model\obj\Debug\Student.Model.csproj.CoreCompileInputs.cache
+D:\EntityFramework\StudentApp\Student.Model\obj\Debug\Student.Model.dll
+D:\EntityFramework\StudentApp\Student.Model\obj\Debug\Student.Model.pdb

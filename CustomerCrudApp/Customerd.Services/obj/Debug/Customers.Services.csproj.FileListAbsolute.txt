@@ -1,0 +1,17 @@
+D:\EntityFramework\CustomerCrudApp\Customerd.Services\obj\Debug\Customers.Services.csproj.AssemblyReference.cache
+D:\EntityFramework\CustomerCrudApp\Customerd.Services\obj\Debug\Customers.Services.csproj.CoreCompileInputs.cache
+D:\EntityFramework\CustomerCrudApp\Customerd.Services\bin\Debug\Customerd.Services.dll
+D:\EntityFramework\CustomerCrudApp\Customerd.Services\bin\Debug\Customerd.Services.pdb
+D:\EntityFramework\CustomerCrudApp\Customerd.Services\bin\Debug\Customers.Model.dll
+D:\EntityFramework\CustomerCrudApp\Customerd.Services\bin\Debug\Customers.Repository.dll
+D:\EntityFramework\CustomerCrudApp\Customerd.Services\bin\Debug\EntityFramework.SqlServer.dll
+D:\EntityFramework\CustomerCrudApp\Customerd.Services\bin\Debug\MySql.Data.dll
+D:\EntityFramework\CustomerCrudApp\Customerd.Services\bin\Debug\EntityFramework.dll
+D:\EntityFramework\CustomerCrudApp\Customerd.Services\bin\Debug\Customers.Model.pdb
+D:\EntityFramework\CustomerCrudApp\Customerd.Services\bin\Debug\Customers.Repository.pdb
+D:\EntityFramework\CustomerCrudApp\Customerd.Services\bin\Debug\Customers.Repository.dll.config
+D:\EntityFramework\CustomerCrudApp\Customerd.Services\bin\Debug\EntityFramework.SqlServer.xml
+D:\EntityFramework\CustomerCrudApp\Customerd.Services\bin\Debug\EntityFramework.xml
+D:\EntityFramework\CustomerCrudApp\Customerd.Services\obj\Debug\Customers.Services.csproj.CopyComplete
+D:\EntityFramework\CustomerCrudApp\Customerd.Services\obj\Debug\Customerd.Services.dll
+D:\EntityFramework\CustomerCrudApp\Customerd.Services\obj\Debug\Customerd.Services.pdb

@@ -1,0 +1,12 @@
+D:\EntityFramework\IEnumerableIQuerable\IEnumerableIQuerable\bin\Debug\IEnumerableIQuerable.exe.config
+D:\EntityFramework\IEnumerableIQuerable\IEnumerableIQuerable\bin\Debug\IEnumerableIQuerable.exe
+D:\EntityFramework\IEnumerableIQuerable\IEnumerableIQuerable\bin\Debug\IEnumerableIQuerable.pdb
+D:\EntityFramework\IEnumerableIQuerable\IEnumerableIQuerable\bin\Debug\EntityFramework.dll
+D:\EntityFramework\IEnumerableIQuerable\IEnumerableIQuerable\bin\Debug\EntityFramework.SqlServer.dll
+D:\EntityFramework\IEnumerableIQuerable\IEnumerableIQuerable\bin\Debug\EntityFramework.xml
+D:\EntityFramework\IEnumerableIQuerable\IEnumerableIQuerable\bin\Debug\EntityFramework.SqlServer.xml
+D:\EntityFramework\IEnumerableIQuerable\IEnumerableIQuerable\obj\Debug\IEnumerableIQuerable.csproj.AssemblyReference.cache
+D:\EntityFramework\IEnumerableIQuerable\IEnumerableIQuerable\obj\Debug\IEnumerableIQuerable.csproj.CoreCompileInputs.cache
+D:\EntityFramework\IEnumerableIQuerable\IEnumerableIQuerable\obj\Debug\IEnumerableIQuerable.csproj.CopyComplete
+D:\EntityFramework\IEnumerableIQuerable\IEnumerableIQuerable\obj\Debug\IEnumerableIQuerable.exe
+D:\EntityFramework\IEnumerableIQuerable\IEnumerableIQuerable\obj\Debug\IEnumerableIQuerable.pdb

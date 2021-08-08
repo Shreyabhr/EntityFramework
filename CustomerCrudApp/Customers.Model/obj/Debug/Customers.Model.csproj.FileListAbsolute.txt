@@ -1,0 +1,6 @@
+D:\EntityFramework\CustomerCrudApp\Customers.Model\bin\Debug\Customers.Model.dll
+D:\EntityFramework\CustomerCrudApp\Customers.Model\bin\Debug\Customers.Model.pdb
+D:\EntityFramework\CustomerCrudApp\Customers.Model\obj\Debug\Customers.Model.csproj.AssemblyReference.cache
+D:\EntityFramework\CustomerCrudApp\Customers.Model\obj\Debug\Customers.Model.csproj.CoreCompileInputs.cache
+D:\EntityFramework\CustomerCrudApp\Customers.Model\obj\Debug\Customers.Model.dll
+D:\EntityFramework\CustomerCrudApp\Customers.Model\obj\Debug\Customers.Model.pdb

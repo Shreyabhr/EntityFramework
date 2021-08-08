@@ -1,0 +1,6 @@
+D:\EntityFramework\EmployeeDropDown\Employees.Model\bin\Debug\Employees.Model.dll
+D:\EntityFramework\EmployeeDropDown\Employees.Model\bin\Debug\Employees.Model.pdb
+D:\EntityFramework\EmployeeDropDown\Employees.Model\obj\Debug\Employees.Model.csproj.AssemblyReference.cache
+D:\EntityFramework\EmployeeDropDown\Employees.Model\obj\Debug\Employees.Model.csproj.CoreCompileInputs.cache
+D:\EntityFramework\EmployeeDropDown\Employees.Model\obj\Debug\Employees.Model.dll
+D:\EntityFramework\EmployeeDropDown\Employees.Model\obj\Debug\Employees.Model.pdb

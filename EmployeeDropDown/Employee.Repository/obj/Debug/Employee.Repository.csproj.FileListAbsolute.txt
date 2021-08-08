@@ -1,0 +1,12 @@
+D:\EntityFramework\EmployeeDropDown\Employee.Repository\bin\Debug\Employee.Repository.dll.config
+D:\EntityFramework\EmployeeDropDown\Employee.Repository\bin\Debug\Employee.Repository.dll
+D:\EntityFramework\EmployeeDropDown\Employee.Repository\bin\Debug\Employee.Repository.pdb
+D:\EntityFramework\EmployeeDropDown\Employee.Repository\bin\Debug\EntityFramework.dll
+D:\EntityFramework\EmployeeDropDown\Employee.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\EntityFramework\EmployeeDropDown\Employee.Repository\bin\Debug\EntityFramework.xml
+D:\EntityFramework\EmployeeDropDown\Employee.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\EntityFramework\EmployeeDropDown\Employee.Repository\obj\Debug\Employee.Repository.csproj.AssemblyReference.cache
+D:\EntityFramework\EmployeeDropDown\Employee.Repository\obj\Debug\Employee.Repository.csproj.CoreCompileInputs.cache
+D:\EntityFramework\EmployeeDropDown\Employee.Repository\obj\Debug\Employee.Repository.csproj.CopyComplete
+D:\EntityFramework\EmployeeDropDown\Employee.Repository\obj\Debug\Employee.Repository.dll
+D:\EntityFramework\EmployeeDropDown\Employee.Repository\obj\Debug\Employee.Repository.pdb

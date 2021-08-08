@@ -1,0 +1,5 @@
+D:\EntityFramework\StudentApiSwagger\Students.Model\bin\Debug\Students.Model.dll
+D:\EntityFramework\StudentApiSwagger\Students.Model\bin\Debug\Students.Model.pdb
+D:\EntityFramework\StudentApiSwagger\Students.Model\obj\Debug\Students.Model.csproj.CoreCompileInputs.cache
+D:\EntityFramework\StudentApiSwagger\Students.Model\obj\Debug\Students.Model.dll
+D:\EntityFramework\StudentApiSwagger\Students.Model\obj\Debug\Students.Model.pdb

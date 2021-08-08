@@ -1,0 +1,55 @@
+﻿@{
+    Layout = "~/Views/Shared/MasterTemplate.cshtml";
+    @model List<Students.Model.Student>
+}
+
+<div class="container">
+    <div class="row col-md-6 col-md-offset-3">
+        <p>@ViewBag.Count</p>
+        <table class="table">
+            <tr>
+                <th>
+                    Id
+                </th>
+                <th>
+                    Name
+                </th>
+                <th>
+                    RollNo
+                </th>
+                <th>
+                    Cgpa
+                </th>
+                <th>
+                    Action
+                </th>
+
+            </tr>
+
+            @foreach (var item in Model)
+            {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RollNo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cgpa)
+            </td>
+            <td>
+                <input type="submit" value="Edit" class="btn btn-warning" onclick="location.href='@Url.Action("Index", "Edit", new { id = item.Id})'" />
+            </td>
+        </tr>
+
+
+            }
+
+
+        </table>
+    </div>
+</div>

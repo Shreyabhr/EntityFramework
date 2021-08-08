@@ -1,0 +1,14 @@
+D:\EntityFramework\BankingApplicationEF\Bank.Repository\bin\Debug\Bank.Repository.dll.config
+D:\EntityFramework\BankingApplicationEF\Bank.Repository\bin\Debug\Bank.Repository.dll
+D:\EntityFramework\BankingApplicationEF\Bank.Repository\bin\Debug\Bank.Repository.pdb
+D:\EntityFramework\BankingApplicationEF\Bank.Repository\bin\Debug\EntityFramework.dll
+D:\EntityFramework\BankingApplicationEF\Bank.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\EntityFramework\BankingApplicationEF\Bank.Repository\bin\Debug\EntityFramework.xml
+D:\EntityFramework\BankingApplicationEF\Bank.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\EntityFramework\BankingApplicationEF\Bank.Repository\obj\Debug\Bank.Repository.csproj.AssemblyReference.cache
+D:\EntityFramework\BankingApplicationEF\Bank.Repository\obj\Debug\Bank.Repository.csproj.CoreCompileInputs.cache
+D:\EntityFramework\BankingApplicationEF\Bank.Repository\obj\Debug\Bank.Repository.csproj.CopyComplete
+D:\EntityFramework\BankingApplicationEF\Bank.Repository\obj\Debug\Bank.Repository.dll
+D:\EntityFramework\BankingApplicationEF\Bank.Repository\obj\Debug\Bank.Repository.pdb
+D:\EntityFramework\BankingApplicationEF\Bank.Repository\bin\Debug\Bank.Model.dll
+D:\EntityFramework\BankingApplicationEF\Bank.Repository\bin\Debug\Bank.Model.pdb

@@ -1,0 +1,6 @@
+D:\EntityFramework\StudentCrudApp\StudentInMemoryRepository\bin\Debug\StudentInMemoryRepository.dll
+D:\EntityFramework\StudentCrudApp\StudentInMemoryRepository\bin\Debug\StudentInMemoryRepository.pdb
+D:\EntityFramework\StudentCrudApp\StudentInMemoryRepository\obj\Debug\StudentInMemoryRepository.csproj.AssemblyReference.cache
+D:\EntityFramework\StudentCrudApp\StudentInMemoryRepository\obj\Debug\StudentInMemoryRepository.csproj.CoreCompileInputs.cache
+D:\EntityFramework\StudentCrudApp\StudentInMemoryRepository\obj\Debug\StudentInMemoryRepository.dll
+D:\EntityFramework\StudentCrudApp\StudentInMemoryRepository\obj\Debug\StudentInMemoryRepository.pdb

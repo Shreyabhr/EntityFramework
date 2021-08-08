@@ -1,0 +1,7 @@
+D:\EntityFramework\SmtpEmailApp\SmtpEmailApp\bin\Debug\SmtpEmailApp.exe.config
+D:\EntityFramework\SmtpEmailApp\SmtpEmailApp\bin\Debug\SmtpEmailApp.exe
+D:\EntityFramework\SmtpEmailApp\SmtpEmailApp\bin\Debug\SmtpEmailApp.pdb
+D:\EntityFramework\SmtpEmailApp\SmtpEmailApp\obj\Debug\SmtpEmailApp.csproj.AssemblyReference.cache
+D:\EntityFramework\SmtpEmailApp\SmtpEmailApp\obj\Debug\SmtpEmailApp.csproj.CoreCompileInputs.cache
+D:\EntityFramework\SmtpEmailApp\SmtpEmailApp\obj\Debug\SmtpEmailApp.exe
+D:\EntityFramework\SmtpEmailApp\SmtpEmailApp\obj\Debug\SmtpEmailApp.pdb
